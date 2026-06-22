@@ -1,0 +1,7 @@
+.gitignore
+data/cache.json
+data/error.log
+uploads/
+.DS_Store
+*.log
+*.tmp

@@ -1,0 +1,39 @@
+<?php
+{
+    "channels": [
+        {
+            "id": 1,
+            "name": "beIN Sports HD",
+            "url": "",
+            "logo": "https://www.beinsports.com/mena/en/assets/beinsports.png",
+            "category": "sports",
+            "country": "SA",
+            "language": "ar",
+            "active": true,
+            "created_at": "2026-06-22 00:00:00"
+        },
+        {
+            "id": 2,
+            "name": "Sky Sports",
+            "url": "",
+            "logo": "https://www.skysports.com/static/skysports/img/skysports-logo.png",
+            "category": "sports",
+            "country": "UK",
+            "language": "en",
+            "active": true,
+            "created_at": "2026-06-22 00:00:00"
+        },
+        {
+            "id": 3,
+            "name": "عربي الأخبار",
+            "url": "",
+            "logo": "https://via.placeholder.com/300x200?text=Arabia+News",
+            "category": "news",
+            "country": "SA",
+            "language": "ar",
+            "active": true,
+            "created_at": "2026-06-22 00:00:00"
+        }
+    ]
+}
+?>
