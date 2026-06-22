@@ -1,7 +1,10 @@
-.gitignore
 data/cache.json
 data/error.log
-uploads/
+uploads/temp_*
 .DS_Store
 *.log
 *.tmp
+node_modules/
+.env
+.idea/
+.vscode/
